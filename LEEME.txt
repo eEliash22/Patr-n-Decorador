@@ -1,0 +1,12 @@
+PROYECTO INTELLIJ IDEA - PATRÓN DECORADOR CAFÉ
+
+1. Descomprime el ZIP.
+2. En IntelliJ IDEA selecciona File > Open y abre la carpeta PatronDecoradorCafe.
+3. Acepta la importación Maven y espera la descarga de JUnit 4.13.2.
+4. Ejecuta Aplicacion.java para ver el pedido decorado.
+5. Ejecuta BebidaTest.java para correr las nueve pruebas unitarias.
+6. Captura pantalla del código y del panel de pruebas de IntelliJ para la tarea.
+
+Este proyecto aplica composición y delegación del patrón Decorador, clases de responsabilidad única, interfaz, herencia, genéricos, excepción personalizada y ByteArrayOutputStream para probar métodos void.
+
+Nota: el diagrama UML debe actualizarse para reflejar exactamente estos nombres y métodos. No se incluyen capturas reales de IntelliJ ni un archivo DIA.
